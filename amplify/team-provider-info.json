@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-zeasonal-dev-132021-authRole",
+            "UnauthRoleArn": "arn:aws:iam::672582596971:role/amplify-zeasonal-dev-132021-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::672582596971:role/amplify-zeasonal-dev-132021-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-zeasonal-dev-132021-deployment",
+            "UnauthRoleName": "amplify-zeasonal-dev-132021-unauthRole",
+            "StackName": "amplify-zeasonal-dev-132021",
+            "StackId": "arn:aws:cloudformation:us-east-1:672582596971:stack/amplify-zeasonal-dev-132021/949091b0-8f8b-11ea-9d80-12a640cb526e",
+            "AmplifyAppId": "df5tx0pl6zod9"
+        }
+    }
+}
